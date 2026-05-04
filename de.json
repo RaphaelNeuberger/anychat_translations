@@ -298,8 +298,8 @@
     "Active threads": "Aktive Unterhaltungen",
     "Archive threads": "Unterhaltungen archivieren",
     "Thread ID": "Unterhaltungs-Nr.",
-    "closed": "geschlossen",
-    "opened": "geöffnet",
+    "closed": "Geschlossen",
+    "opened": "Geöffnet",
     "Leave thread": "Unterhaltung verlassen",
     "Archive thread": "Unterhaltung archivieren",
     "Unarchive thread": "Unterhaltung aus dem Archiv nehmen",
@@ -4260,5 +4260,5 @@
     "The page you are looking for isn't here":"Die gesuchte Seite ist nicht hier",
     "You either tried some shady route or you came here by mistake. Whichever it is, try using the navigation":"Entweder haben Sie einen seltsamen Weg gewählt oder sind versehentlich hier gelandet. Wie auch immer, versuchen Sie es mit der Navigation.",
     "Was this article helpful?":"War dieser Artikel hilfreich?",
-    "0 of 0 liked this article":"0 von 0 Personen haben diesen Artikel geliked",
+    "0 of 0 liked this article":"0 von 0 Personen haben diesen Artikel geliked"
 }
