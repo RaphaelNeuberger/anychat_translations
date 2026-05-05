@@ -3889,7 +3889,7 @@
     "Re-opened chats": "Wiedereröffnete Chats",
     "Messages in": "Nachrichten eingehend",
     "Messages out": "Nachrichten ausgehen",
-    "FRT": "Erstreaktionszeit",
+    "FRT": "Erst Reaktion",
     "TTR": "Lösungsdauer",
     "By channel": "Nach Kanal",
     "By agent": "Nach Agenten",
@@ -3900,8 +3900,8 @@
     "Incoming:": "Eingehend:",
     "Resolved:": "Gelöst:",
     "Re-opened:": "Wiedereröffnet:",
-    "FRT:": "Erste Reaktionszeit:",
-    "TTR:": "Zeit bis zur Lösung:",
+    "FRT:": "Erste Reaktion:",
+    "TTR:": "Lösungsdauer:",
     "Bot-driven chats are not included in these metrics.": "Botgesteuerte Chats sind in diesen Kennzahlen nicht enthalten.",
     "Invalid auth token": "Ungültiges Authentifizierungstoken",
     "Back to sign in page": "Zurück zur Anmeldeseite",
@@ -4273,5 +4273,5 @@
     "When this option is activated, the AI will provide one response before the process continues to the next linked action.":"Wenn diese Option aktiviert ist, gibt die KI eine Antwort, bevor der Vorgang mit der nächsten verknüpften Aktion fortgesetzt wird.",
     "Close all": "Alle schließen",
     "You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.":"Sie haben Ihr aktuelles Kontingent überschritten. Bitte überprüfen Sie Ihre Tarif- und Abrechnungsdaten. Weitere Informationen zu diesem Fehler finden Sie in der Dokumentation: https://platform.openai.com/docs/guides/error-codes/api-errors.",
-    "Preview limitation: invite can't be send in preview mode":"Einschränkung der Vorschau: Im Vorschaumodus können keine Einladungen versendet werden"
+    "Preview limitation: invite can't be send in preview mode":"Einschränkung der Vorschau: Im Vorschaumodus können keine Einladungen versendet werden",
 }
