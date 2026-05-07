@@ -4309,4 +4309,6 @@
     "This event trigger is not supported":"Dieser Ereignisauslöser wird nicht unterstützt",
     "The default assistant will be used in the chat section if not overridden by channel settings.":"Der Standard-Assistent wird im Chat-Bereich verwendet, sofern dies nicht durch Kanaleinstellungen überschrieben wird.",
     "Supported files: pdf, docx, html, md, txt. File encoding must be utf-8 or ascii.":"Unterstützte Dateiformate: pdf, docx, html, md, txt. Die Dateikodierung muss UTF-8 oder ASCII sein.",
+    "The chat is ended.":"Der Chat ist beendet."
+
 }
